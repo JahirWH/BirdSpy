@@ -1,2 +1,2 @@
 # BirdSpy
- Analiza formatos de audio y reconoce el tipo de ave, localmente, con ia en api
+ Scrip para analizar datos de aves y relacion de datos con el tema
