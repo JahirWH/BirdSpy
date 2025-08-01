@@ -1,2 +1,2 @@
 # analizer scrip
- Scrip para analizar datos de dogis y relacion de datos con el tema
+Scrip para analizar datos y practicas de obtencion de datos en crudo con python
